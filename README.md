@@ -28,7 +28,8 @@ This project demonstrates the use of MySQL to perform RFM (Recency, Frequency, M
 
 ## Dataset
 
-The dataset for this project can be downloaded from [here](#). It includes customer transaction data essential for performing RFM Analysis.
+The dataset for this project can be downloaded from (https://github.com/vasanth212000/RFM-Metrics-Unveiling-Customer-Value_MySql/blob/main/rfm_data.csv). 
+It includes customer transaction data essential for performing RFM Analysis.
 
 ## Tools Used
 
@@ -47,5 +48,4 @@ This project provides a comprehensive approach to using SQL for RFM Analysis, wh
 
 ## Author
 
-[Your Name]
-
+Vasanth Marudhai
